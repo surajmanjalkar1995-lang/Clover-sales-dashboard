@@ -1,4 +1,4 @@
-<img width="1228" height="689" alt="image" src="https://github.com/user-attachments/assets/679cd42f-c9df-4669-bfe5-86c0ec85ecde" /># Clover-sales-dashboard
+Clover-sales-dashboard
 Project Title / Headline
 Analysed E-Commerce Sales Data & Built Interactive Power BI Dashboard
 
