@@ -1,7 +1,8 @@
 # Clover-sales-dashboard
-
-PROJECTS (DATA ANALYTICS)
+Project Title / Headline
 Analysed E-Commerce Sales Data & Built Interactive Power BI Dashboard
+
+Short Description / Purpose
 Power BI · SQL · Excel · DAX
 - Built a star-schema model and interactive dashboards (Region, Category, Segment & Channel filters).
 - Created DAX KPIs: YoY Growth %, Profit Margin %, Avg Order Value, Forecasting.
