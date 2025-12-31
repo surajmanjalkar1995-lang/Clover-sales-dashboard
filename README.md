@@ -1,4 +1,4 @@
-# Clover-sales-dashboard
+<img width="1228" height="689" alt="image" src="https://github.com/user-attachments/assets/679cd42f-c9df-4669-bfe5-86c0ec85ecde" /># Clover-sales-dashboard
 Project Title / Headline
 Analysed E-Commerce Sales Data & Built Interactive Power BI Dashboard
 
@@ -10,3 +10,5 @@ Power BI · SQL · Excel · DAX
 
 
 Screenshots / Demos :- https://github.com/surajmanjalkar1995-lang/Clover-sales-dashboard/blob/main/BI%20Pro.PNG
+
+<img width="1228" height="689" alt="image" src="https://github.com/user-attachments/assets/cb5f6737-41a1-4ddc-8e15-0c871ce38e42" />
