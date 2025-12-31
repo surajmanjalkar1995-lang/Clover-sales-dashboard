@@ -1,4 +1,4 @@
-Clover-sales-dashboard
+E-Commerce-sales-dashboard
 Project Title / Headline
 Analysed E-Commerce Sales Data & Built Interactive Power BI Dashboard
 
